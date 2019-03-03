@@ -63,3 +63,4 @@ InstrumentFamilyView.prototype.createInstrumentList = function (instruments) {
 };
 
 module.exports = InstrumentFamilyView;
+// exports default InstrumentFamilyView;

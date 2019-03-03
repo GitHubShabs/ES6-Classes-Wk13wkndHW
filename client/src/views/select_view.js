@@ -26,3 +26,4 @@ SelectView.prototype.populate = function (instrumentFamilyData) {
 };
 
 module.exports = SelectView;
+// exports default SelectView;
